@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: repPDF
+Version: 0.0.1
+Summary: A PDF generator binder package using ReportLab
+Home-page: https://github.com/phanikiran/qastats/reppdf
+Author: Phanikiran Siddineni
+Author-email: phanikiran@gmail.com
+License: UNKNOWN
+Description: ## Report Lab PDF Binder package for easy and quick pdf generation
+        - Supports Pandas Dataframes, Body text, header text, footer text, static images(FileIO)
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
